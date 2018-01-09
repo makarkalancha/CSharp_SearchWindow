@@ -1,0 +1,16 @@
+C:\Users\Makar\AppData\Local\Temporary Projects\SearchWindow\bin\Debug\SearchWindow.exe
+C:\Users\Makar\AppData\Local\Temporary Projects\SearchWindow\bin\Debug\SearchWindow.pdb
+C:\Users\Makar\AppData\Local\Temporary Projects\SearchWindow\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Makar\AppData\Local\Temporary Projects\SearchWindow\obj\Debug\SearchWindow.Form1.resources
+C:\Users\Makar\AppData\Local\Temporary Projects\SearchWindow\obj\Debug\SearchWindow.Properties.Resources.resources
+C:\Users\Makar\AppData\Local\Temporary Projects\SearchWindow\obj\Debug\SearchWindow.csproj.GenerateResource.Cache
+C:\Users\Makar\AppData\Local\Temporary Projects\SearchWindow\obj\Debug\SearchWindow.exe
+C:\Users\Makar\AppData\Local\Temporary Projects\SearchWindow\obj\Debug\SearchWindow.pdb
+D:\SRC\C#_dir_workspace\Projects\SearchWindow\SearchWindow\obj\Debug\SearchWindow.exe
+D:\SRC\C#_dir_workspace\Projects\SearchWindow\SearchWindow\obj\Debug\SearchWindow.pdb
+D:\SRC\C#_dir_workspace\Projects\SearchWindow\SearchWindow\bin\Debug\SearchWindow.exe
+D:\SRC\C#_dir_workspace\Projects\SearchWindow\SearchWindow\bin\Debug\SearchWindow.pdb
+D:\SRC\C#_dir_workspace\Projects\SearchWindow\SearchWindow\obj\Debug\ResolveAssemblyReference.cache
+D:\SRC\C#_dir_workspace\Projects\SearchWindow\SearchWindow\obj\Debug\SearchWindow.Form1.resources
+D:\SRC\C#_dir_workspace\Projects\SearchWindow\SearchWindow\obj\Debug\SearchWindow.Properties.Resources.resources
+D:\SRC\C#_dir_workspace\Projects\SearchWindow\SearchWindow\obj\Debug\SearchWindow.csproj.GenerateResource.Cache
